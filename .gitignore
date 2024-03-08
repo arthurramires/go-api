@@ -1,0 +1,10 @@
+*.exe
+*.bin
+*.dll
+*.dylib
+
+*.test
+
+*.out
+
+db/
